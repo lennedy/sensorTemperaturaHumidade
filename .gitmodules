@@ -1,0 +1,12 @@
+[submodule "SensorTemperaturaHumidade/lib/SensorBaseMqtt"]
+	path = SensorTemperaturaHumidade/lib/SensorBaseMqtt
+	url = https://github.com/lennedy/SensorBaseMqtt3.git
+[submodule "SensorTemperaturaHumidade/lib/DHT11"]
+	path = SensorTemperaturaHumidade/lib/DHT11
+	url = https://github.com/dhrubasaha08/DHT11.git
+[submodule "SensorTemperaturaHumidade/lib/EspMQTTClient"]
+	path = SensorTemperaturaHumidade/lib/EspMQTTClient
+	url = https://github.com/plapointe6/EspMQTTClient
+[submodule "SensorTemperaturaHumidade/lib/ArduinoJson"]
+	path = SensorTemperaturaHumidade/lib/ArduinoJson
+	url = https://github.com/bblanchon/ArduinoJson
